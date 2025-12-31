@@ -31,6 +31,3 @@ Mencari rute terpendek yang mengunjungi setiap kota tepat satu kali dan kembali 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
 * **Library:** `itertools` (untuk permutasi)
-
----
-*Dibuat oleh Muhfi Fawwaz Rizqullah - Teknik Komputer Universitas Brawijaya (2023)*
